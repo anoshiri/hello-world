@@ -1,2 +1,3 @@
 # hello-world
-My GtHub App
+Hello Me,
+This is my first GitHub project.
